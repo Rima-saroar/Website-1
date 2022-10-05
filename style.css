@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+    width: 90%;
+    margin-top: 30px;
+    
+    overflow: hidden;
+
+}
+
+.logo{
+    width: 20%;
+    float: left;
+    margin-left: 85px;
+}
+
+.logo img{
+   
+    float: left;
+    font-size: 30px;
+    
+   
+
+}
+
+
+.menu{
+
+    width: 50%;
+    float: right;
+    overflow: hidden;
+}
+
+
+.menu ul{
+
+list-style: none;
+float: right;
+
+}
+
+.menu ul li{
+
+float: left;
+margin-left: 30px;
+margin-right: 80px;
+}
+
+
+.menu ul li a{
+    text-decoration: none;
+    float: left;
+  color: #626262;
+  text-transform: uppercase;
+margin-left: 20px;
+
+}
+
+
+
+.banner{
+width: 90%;
+margin: auto;
+
+}
+
+.banner img{
+width: 100%;
+}
+
+
+
+.content{
+
+    width: 80%;
+    margin: auto;
+   overflow: hidden;
+}
+
+
+
+.content h5{
+font-size: 20px;
+color:#b4ad9e ;
+margin: 70px auto;
+text-transform: uppercase;
+margin-bottom: 20px;
+}
+
+.content h1{
+  color:#626262; 
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.content p{
+color:#626262;
+font-size: 16px;
+margin-bottom: 40px;
+}
+.content a{
+    color:#b4ad9e ;
+    text-transform: uppercase;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+
+.img{
+width: 80%;
+margin: auto;
+margin-top: 80px;
+overflow: hidden;
+margin: 50px auto;
+}
+
+
+.img-left{
+
+width: 50%;
+float: left;
+margin-bottom: 20px;
+
+}
+
+.img-right{
+
+width: 50%;
+float: right;
+margin-bottom: 20px;
+
+
+}
+.img-left h4{
+    color:#b4ad9e
+   
+   
+}
+
+.img-right h4{
+    color:#b4ad9e
+    
+    
+}
+
+.img-left h1{
+
+ color:#626262;
+ font-weight: bold;
+ margin-bottom: 50px;
+}
+
+
+
+
+    .img-right h1{
+       color:#626262;
+       font-weight: bold;
+       margin-bottom: 50px;
+    }
+   
+    .img-left p{
+color: #626262;
+
+    }
+
+
+    .img-right p{
+        color: #626262;
+      
+    }
+
+/* 
+
+    .lifestyle{
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+    }
+.rima img{
+        width: 50%;
+        float: left;
+    }
+
+    .suhi img{
+        width: 50%;
+        float: left;
+    }
+     */
+
+    
